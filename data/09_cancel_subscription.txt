@@ -1,0 +1,79 @@
+# Cancelling a Subscription
+
+If you no longer need your CloudSuite subscription, you can cancel it at any time from your account settings.
+
+## How to Cancel
+
+1. Open **Billing**.
+2. Select **Plan Details**.
+3. Click **Cancel Subscription**.
+4. Choose a reason for cancellation (optional).
+5. Confirm the cancellation.
+
+Once completed, you'll receive a confirmation email.
+
+## What Happens After Cancellation?
+
+After cancelling:
+
+* Your subscription remains active until the end of the current billing period.
+* No future renewal charges will be processed.
+* You will continue to have access to all paid features until the subscription expires.
+
+When the billing period ends, the account moves to an archived state.
+
+## Archived Accounts
+
+Archived accounts provide read-only access to historical data for up to 90 days after the subscription ends.
+
+During this period, you can:
+
+* View existing records
+* Export your data
+* Reactivate your subscription
+
+After 90 days, account data may be permanently removed according to CloudSuite's data retention policy.
+
+## Reactivating a Subscription
+
+You can reactivate your subscription at any time during the active billing period or while the account is archived.
+
+Once payment is completed:
+
+* Full access is restored
+* Existing data remains available
+* No additional setup is required
+
+## Enterprise Customers
+
+Enterprise subscriptions cannot be cancelled through self-service settings.
+
+If your organization has an Enterprise contract:
+
+* Contact your account manager
+* Review any notice requirements in your agreement
+* Follow the cancellation process outlined in your contract
+
+## Common Questions
+
+### I Cancelled but Was Still Charged
+
+This usually happens when a renewal charge was processed before the cancellation request was submitted.
+
+Please contact Billing Support for assistance.
+
+### Can I Keep My Data After Cancelling?
+
+Yes. You can export your data before the archive period ends.
+
+See the **Data Export Guide** for instructions.
+
+### I Cancelled by Mistake
+
+You can reactivate your subscription at any time before your data is removed.
+
+## Related Articles
+
+* Billing Overview
+* Refund Policy
+* Data Export Guide

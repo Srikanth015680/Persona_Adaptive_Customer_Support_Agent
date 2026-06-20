@@ -1,0 +1,64 @@
+# Mobile App Troubleshooting
+
+This guide covers some of the most common issues reported by CloudSuite mobile app users.
+
+## App Won't Open or Stays on the Loading Screen
+
+If the app is stuck on the splash screen or does not load properly:
+
+1. Close the app completely and reopen it.
+2. Make sure your internet connection is working.
+3. Open a website in your browser to confirm connectivity.
+4. Check the CloudSuite status page for any ongoing service issues.
+5. Update the app to the latest version available.
+6. If the issue continues, uninstall and reinstall the app.
+
+Reinstalling the app does not remove your account data because your information is stored securely in the cloud.
+
+## Not Receiving Notifications
+
+If push notifications are not arriving:
+
+1. Verify that notifications are enabled in your phone settings.
+2. Open the CloudSuite app and check notification settings.
+3. Make sure Do Not Disturb or Focus Mode is not blocking alerts.
+4. On Android devices, disable battery optimization for CloudSuite if notifications are delayed.
+
+After making changes, restart the app and test again.
+
+## App Crashes
+
+If the app closes unexpectedly:
+
+1. Update the app to the latest version.
+2. Restart your device.
+3. Clear the app cache if the option is available.
+4. Try the same action again.
+
+If the crash continues, collect the following information before contacting support:
+
+* Device model
+* Operating system version
+* App version
+* Steps that cause the crash
+
+Providing these details helps the support team investigate the issue faster.
+
+## Sync Issues Between Mobile and Web
+
+Changes made on mobile and web should normally appear across devices automatically.
+
+If information is not syncing:
+
+1. Confirm your device is connected to the internet.
+2. Refresh the app.
+3. Check whether the app is currently in offline mode.
+4. Wait a few minutes and try again.
+
+If syncing still does not work, contact support with details about the affected records.
+
+## Related Articles
+
+* Account Lockout and Recovery
+* Password Reset
+* Browser Cache and Cookie Troubleshooting
