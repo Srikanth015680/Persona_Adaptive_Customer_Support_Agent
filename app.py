@@ -8,7 +8,7 @@ from src import llm_providers
 
 
 st.set_page_config(
-    page_title="CloudSuite Support Agent",
+    page_title="Persona-Adaptive Customer Support Agent",
     layout="centered",
 )
 
@@ -26,7 +26,7 @@ if "session" not in st.session_state:
     st.session_state.turns = []
 
 
-st.title(" CloudSuite Support Agent")
+st.title(" Persona-Adaptive Customer Support Agent")
 st.caption(
     "Persona-aware · RAG-grounded · Human-escalation-ready"
 )
