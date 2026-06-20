@@ -15,7 +15,12 @@ st.set_page_config(
 
 @st.cache_resource
 def get_rag_pipeline():
-    return RAGPipeline()
+    rag = RAGPipeline()
+
+    if not rag.is_ready():
+        rag.ingest(rebuild=True)
+
+    return rag
 
 
 if "session" not in st.session_state:
